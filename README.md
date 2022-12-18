@@ -5,12 +5,12 @@ Kernel made spoofer using KDmapper driver, can implement your own mapper if you 
 
 
 Features:
-`Baseboard Changer (HDD/SSD)
-`SMBIOS Changer
-`Mac Address Changer
-`GPU/CPU Spoof
-`Motherboard Modulization
-`COMES WITH CLEANER(Cleaner is outdated, windows reinstall recommended)
+`Baseboard Changer (HDD/SSD)`
+`SMBIOS Changer`
+`Mac Address Changer`
+`GPU/CPU Spoof`
+`Motherboard Modulization`
+`COMES WITH CLEANER(Cleaner is outdated, windows reinstall recommended)`
 
 **To check out our full line of UPDATED spoofers fully ready with one click install, please visit:** https://labscheats.com
 Join our discord! https://discord.gg/labs
